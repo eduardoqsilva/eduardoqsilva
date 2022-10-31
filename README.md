@@ -19,8 +19,8 @@
   <img align="center" alt="edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!–<img align="center" alt="edu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="edu-blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-  <img align="center" alt="edu-unity" height="30" width="40" src="	https://cdn.icon-icons.com/icons2/615/PNG/256/Unity_icon-icons.com_56592.png"/>
-  <img align="center" alt="edu-xd" width="40" src="img.icons8.com/color/344/adobe-xd--v1.png" />
+  <img align="center" alt="edu-unity" height="30" width="40" src="https://svgur.com/i/mXD.svg"/>
+  <img align="center" alt="edu-xd" width="40" src="https://img.icons8.com/color/344/adobe-xd--v1.png" />
   <img align="center" alt="edu-figma" height="30" src="https://img.icons8.com/fluency/344/figma.png">
           
                  
