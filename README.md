@@ -4,7 +4,8 @@
 <div align="center">
   <a href="https://github.com/eduardoqsilva
 ">
-  <img height="180em" src="https://github-readme-stats-eduardoqsilva.vercel.app/api?username=eduardoqsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-edu.vercel.app
+/api?username=eduardoqsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoqsilva&layout=compact&langs_count=7&hide_border=true&theme=tokyonight"/>
 </div>
 
