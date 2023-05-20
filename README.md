@@ -18,6 +18,6 @@
   
   ##
 
-  ![Snake animation](https://github.com/eduardoqsilva/eduardoqsilva/blob/output/github-contribution-grid-snake-dark.svg)
+  <!--- ![Snake animation](https://github.com/eduardoqsilva/eduardoqsilva/blob/output/github-contribution-grid-snake-dark.svg) -->
  
 </div>
