@@ -18,8 +18,6 @@
   
   ##
 
-<picture>
-  <img alt="github-snake" src="[github-snake.svg](https://github.com/eduardoqsilva/eduardoqsilva/blob/output/github-contribution-grid-snake-dark.svg)" />
-</picture>
+   ![Snake animation](https://github.com/eduardoqsilva/eduardoqsilva/blob/output/github-contribution-grid-snake-dark.svg)
  
 </div>
